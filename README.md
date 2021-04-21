@@ -10,7 +10,7 @@
    <a href="https://www.instagram.com/vinicius_margotti/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="GitHub badge" />
   </a>
-  <a  href="whatsapp://send?abid=48998363300&text=Hello%2C%20World!">
+  <a  href="https://api.whatsapp.com/send?phone=48998363300">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="GitHub badge" />
   </a>
 </p>
