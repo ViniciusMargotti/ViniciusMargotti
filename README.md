@@ -1,4 +1,4 @@
-### Sejam bem vindos ao meu GitHub 👋
+### Welcome to my GitHub 👋
 
 <p align="center">
   <a href="https://github.com/viniciusmargotti?tab=followers">
